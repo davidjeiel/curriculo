@@ -2,6 +2,6 @@
 
 <div class="container">
 	<span>
-		<i src="img/screenshot.png"></i>
+		<img src="img/screenshot.png">
 	</span>
 </div>
