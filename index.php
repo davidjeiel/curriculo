@@ -31,7 +31,7 @@
         <link href="css/layout.min.css" rel="stylesheet" type="text/css"/>
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="favicon.ico"/>
+        <link rel="shortcut icon" href="img/developer.png" type="image/x-icon" />
     </head>
     <!-- END HEAD -->
     <!-- BODY -->
