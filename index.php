@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<!-- ==============================
-    Project:        Metronic "Aircv" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
-    Version:        1.0
-    Author:         KeenThemes
-    Primary use:    Corporate, Business Themes.
-    Email:          support@keenthemes.com
-    Follow:         http://www.twitter.com/keenthemes
-    Like:           http://www.facebook.com/keenthemes
-    Website:        http://www.keenthemes.com
-    Premium:        Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
-================================== -->
-<html lang="pt-br" class="no-js">
+<!-- =============================================================
+ /   Project:        David Web - Currículo Eletrônico
+ /   Version:        1.0
+ /   Author:         David Jeiel
+ /   Primary use:    Curriculum.
+ /   Email:          davidjeiel@gmail.com
+ /   Follow:         http://www.twitter.com/davidjeiel
+ /   Like:           http://www.facebook.com/davidjeiel
+ /   Website:        http://www.davidjeiel.com
+ / ============================================================== -->
+<html lang="pt-br">
     <!-- BEGIN HEAD -->
     <head>
         <meta charset="utf-8"/>
-        <title>Currículo - David</title>
+        <title>David WEB</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="" name="description"/>
@@ -35,10 +34,8 @@
         <link rel="shortcut icon" href="favicon.ico"/>
     </head>
     <!-- END HEAD -->
-
     <!-- BODY -->
     <body id="body" data-spy="scroll" data-target=".header">
-
         <!--========== HEADER ==========-->
         <header class="header navbar-fixed-top">
             <!-- Navbar -->
@@ -55,9 +52,9 @@
                         <div class="logo">
                             <a class="logo-wrap" href="#body">
                                 <div class="logo-img logo-img-main" alt="Asentus Logo">
-                                    <h3 style="color: white;">David Jeiel</h3>                                    
+                                    <h3 style="color: white;">David WEB</h3>                                    
                                 </div>
-                                <img class="logo-img logo-img-active" src="img/logoDP3.jpg" alt="Asentus Logo">
+                                <img class="logo-img logo-img-active" src="img/logoDP3.jpg" alt="David Jeiel">
                             </a>
                         </div>
                         <!-- End Logo -->
@@ -88,7 +85,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="promo-block-divider">
-                            <h1 class="promo-block-title">David <br/> Jeiel</h1>
+                            <h1 class="promo-block-title">David WEB</h1>
                             <p class="promo-block-text">Web Designer &amp; FullStack Developer</p>
                         </div>
                         <ul class="list-inline">
@@ -96,6 +93,7 @@
                             <li><a href="https://twitter.com/davidjeiel" class="social-icons"><i class="icon-social-twitter"></i></a></li>
                             <li><a href="https://www.behance.net/davidjeiel" class="social-icons"><i class="icon-social-behance"></i></a></li>
                             <li><a href="https://www.linkedin.com/in/davidjeiel/" class="social-icons"><i class="icon-social-linkedin"></i></a></li>
+                            <li><a href="https://github.com/davidjeiel" class="social-icons"><i class="icon-social-github"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -111,39 +109,44 @@
                 <div class="row">
                     <div class="col-sm-3 sm-margin-b-30">
                         <div class="text-right sm-text-left">
-                            <h2 class="margin-b-0">Intro</h2>
-                            <p>What I am all about.</p>
+                            <h2 class="margin-b-0">Sobre Eu</h2>
+                            <p>Um pouco sobre meu trabalho.</p>
                         </div>
                     </div>
                     <div class="col-sm-8 col-sm-offset-1">
                         <div class="margin-b-60">
-                            <p>I'm Alex Teseira, orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>Olá!</p>
+                            <p>
+                                Me chamo David e sou desenvolvedor Web FullStack. Isto significa que crio toda a infra estrutura de um sistema que fica hospedado na internet, deste bancos de dados a páginas com controle de acesso e funções personalizadas.
+                            </p>
+                            <p>
+                                Exponho aqui as linguagens com as quais me identifico melhor     
+                            </p>
                         </div>
 
                         <!-- Progress Box -->
                         <div class="progress-box">
-                            <h5>PHP <span class="color-heading pull-right">87%</span></h5>
-                            <div class="progress">
-                                <div class="progress-bar bg-color-base" role="progressbar" data-width="87"></div>
-                            </div>
-                        </div>
-                        <div class="progress-box">
-                            <h5>HTML5 <span class="color-heading pull-right">96%</span></h5>
+                            <h5>PHP <span class="color-heading pull-right">96%</span></h5>
                             <div class="progress">
                                 <div class="progress-bar bg-color-base" role="progressbar" data-width="96"></div>
                             </div>
                         </div>
                         <div class="progress-box">
-                            <h5>JavaSript <span class="color-heading pull-right">52%</span></h5>
+                            <h5>HTML5 <span class="color-heading pull-right">87%</span></h5>
+                            <div class="progress">
+                                <div class="progress-bar bg-color-base" role="progressbar" data-width="87"></div>
+                            </div>
+                        </div>
+                        <div class="progress-box">
+                            <h5>JavaSript <span class="color-heading pull-right">63%</span></h5>
                             <div class="progress">
                                 <div class="progress-bar bg-color-base" role="progressbar" data-width="52"></div>
                             </div>
                         </div>
                         <div class="progress-box">
-                            <h5>Photoshop <span class="color-heading pull-right">77%</span></h5>
+                            <h5>C# <span class="color-heading pull-right">45%</span></h5>
                             <div class="progress">
-                                <div class="progress-bar bg-color-base" role="progressbar" data-width="77"></div>
+                                <div class="progress-bar bg-color-base" role="progressbar" data-width="45"></div>
                             </div>
                         </div>
                         <!-- End Progress Box -->
@@ -154,15 +157,15 @@
         </div>
         <!-- End About -->
 
-        <!-- Experience -->
+        <!-- Experience 
         <div id="experience">
             <div class="bg-color-sky-light" data-auto-height="true">
                 <div class="container content-lg">
                     <div class="row">
                         <div class="col-sm-3 sm-margin-b-30">
                             <div class="text-right sm-text-left">
-                                <h2 class="margin-b-0">Experience</h2>
-                                <p>Batman would be jealous.</p>
+                                <h2 class="margin-b-0">Experiencia</h2>
+                                <p>Alguns trabalhos publicados.</p>
                             </div>
                         </div>
                         <div class="col-sm-8 col-sm-offset-1">
@@ -204,14 +207,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--// end row -->
                         </div>
                     </div>
-                    <!--// end row -->
                 </div>
             </div>
         </div>
-        <!-- End Experience -->
+        End Experience -->
 
         <!-- Work -->
         <div id="work">
@@ -265,7 +266,7 @@
                                 </div>
                                 <!-- End Work -->
                             </div>
-                            <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 margin-b-4">
+                            <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 md-margin-b-4">
                                 <!-- Work -->
                                 <div class="work work-popup-trigger">
                                     <div class="work-overlay">
@@ -308,33 +309,29 @@
                                 <!-- Work -->
                                 <div class="work work-popup-trigger">
                                     <div class="work-overlay">
-                                        <img class="full-width img-responsive" src="img/397x300/01.jpg" alt="Portfolio Image">
+                                        <img class="full-width img-responsive" src="img/painel_vigov.jpg" alt="Portfolio Image">
                                     </div>
                                     <div class="work-popup-overlay">
                                         <div class="work-popup-content">
                                             <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                             <div class="margin-b-30">
-                                                <h3 class="margin-b-5">Art Of Coding</h3>
-                                                <span>Clean &amp; Minimalistic Design</span>
+                                                <h3 class="margin-b-5">Painel VIGOV</h3>
+                                                <span>Tudo em um só lugar</span>
                                             </div>
                                             <div class="row">
                                                 <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                                     <div class="margin-t-10 sm-margin-t-0">
-                                                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                        <p>Uma sugestão para processo seletivo na caixa, trata-se de um painel que concentra as informações da vice presidência de governo e permite que na páçgina inicial se obtenha acesso de dados diretamente gerados pelo SICONV, o sistema de gestão de convênios do governo federal.
+                                                        </p>
                                                         <ul class="list-inline work-popup-tag">
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="">Coding,</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-4">
                                                     <div class="margin-t-10 sm-margin-t-0">
-                                                        <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                        <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                        <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                        <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                        <p class="margin-b-5"><strong> Criador:</strong> David Jeiel</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -343,37 +340,36 @@
                                 </div>
                                 <!-- End Work -->
                             </div>
-                            <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 md-margin-b-4">
+                            <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 margin-b-4">
                                 <!-- Work -->
                                 <div class="work work-popup-trigger">
                                     <div class="work-overlay">
-                                        <img class="full-width img-responsive" src="img/397x300/02.jpg" alt="Portfolio Image">
+                                        <img class="full-width img-responsive" src="img/repasses_lei_151.png" alt="Portfolio Image">
                                     </div>
                                     <div class="work-popup-overlay">
                                         <div class="work-popup-content">
                                             <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                             <div class="margin-b-30">
-                                                <h3 class="margin-b-5">Art Of Coding</h3>
-                                                <span>Clean &amp; Minimalistic Design</span>
+                                                <h3 class="margin-b-5">Repasses legais</h3>
+                                                <span>Atendimento a leis de repasses baseadas na 151</span>
                                             </div>
                                             <div class="row">
                                                 <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                                     <div class="margin-t-10 sm-margin-t-0">
-                                                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                        <p>Sistema atende à demanda de repasses legais de depósitos judiciais para estados e municípios.</p>
+                                                        <p>Com atendimento prioritário, o sistema já gerou bilhões em atendimento a hrepasses legais oriundos de leis federais, estaduais e municipais</p>
                                                         <ul class="list-inline work-popup-tag">
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-4">
                                                     <div class="margin-t-10 sm-margin-t-0">
-                                                        <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                        <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                        <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                        <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                        <p class="margin-b-5"><strong>Project Leader:</strong> Marcio Aboudib</p>
+                                                        <p class="margin-b-5"><strong>Designer:</strong> David Jeiel</p>
+                                                        <p class="margin-b-5"><strong>Developer:</strong> David Jeiel</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -382,37 +378,36 @@
                                 </div>
                                 <!-- End Work -->
                             </div>
-                            <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
+                            <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 margin-b-4">
                                 <!-- Work -->
                                 <div class="work work-popup-trigger">
                                     <div class="work-overlay">
-                                        <img class="full-width img-responsive" src="img/397x300/03.jpg" alt="Portfolio Image">
+                                        <img class="full-width img-responsive" src="img/repasses_lei_151.2.png" alt="Portfolio Image">
                                     </div>
                                     <div class="work-popup-overlay">
                                         <div class="work-popup-content">
                                             <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                             <div class="margin-b-30">
-                                                <h3 class="margin-b-5">Art Of Coding</h3>
-                                                <span>Clean &amp; Minimalistic Design</span>
+                                                <h3 class="margin-b-5">Repasses legais</h3>
+                                                <span>Atendimento a leis de repasses baseadas na 151</span>
                                             </div>
                                             <div class="row">
                                                 <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                                     <div class="margin-t-10 sm-margin-t-0">
-                                                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                        <p>Sistema atende à demanda de repasses legais de depósitos judiciais para estados e municípios.</p>
+                                                        <p>Com atendimento prioritário, o sistema já gerou bilhões em atendimento a hrepasses legais oriundos de leis federais, estaduais e municipais</p>
                                                         <ul class="list-inline work-popup-tag">
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
+                                                            <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-4">
                                                     <div class="margin-t-10 sm-margin-t-0">
-                                                        <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                        <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                        <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                        <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                        <p class="margin-b-5"><strong>Project Leader:</strong> Marcio Aboudib</p>
+                                                        <p class="margin-b-5"><strong>Designer:</strong> David Jeiel</p>
+                                                        <p class="margin-b-5"><strong>Developer:</strong> David Jeiel</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -437,27 +432,27 @@
                     <div class="row">
                         <div class="col-sm-3 sm-margin-b-30">
                             <div class="text-right sm-text-left">
-                                <h2 class="margin-b-0">Contacts</h2>
-                                <p>Hire me.</p>
+                                <h2 class="margin-b-0">Contato</h2>
+                                <p>Me chama aí!</p>
                             </div>
                         </div>
                         <div class="col-sm-8 col-sm-offset-1">
                             <div class="row">
                                 <div class="col-md-3 col-xs-6 md-margin-b-30">
-                                    <h5>Location</h5>
-                                    <a href="http://keenthemes.com/">Brookyln, New York</a>
+                                    <h5>Contato Presencial:</h5>
+                                    <a href="#">Brasília, DF</a>
                                 </div>
                                 <div class="col-md-3 col-xs-6 md-margin-b-30">
-                                    <h5>Phone</h5>
-                                    <a href="http://keenthemes.com/">+77 234 548 00 00</a>
+                                    <h5>Telefone:</h5>
+                                    <a href="#">+61 9 8300 2725</a>
                                 </div>
                                 <div class="col-md-3 col-xs-6">
-                                    <h5>Email</h5>
-                                    <a href="mailto:#">alex.teseira@gmail.com</a>
+                                    <h5>Email:</h5>
+                                    <a href="mailto:davidjeiel@gmail.com">davidjeiel@gmail.com</a>
                                 </div>
                                 <div class="col-md-3 col-xs-6">
-                                    <h5>Web</h5>
-                                    <a href="http://keenthemes.com/">alex.teseira.com</a>
+                                    <h5>Site:</h5>
+                                    <a href="http://davidjeiel.com/">davidjeiel.com</a>
                                 </div>
                             </div>
                         </div>
@@ -466,50 +461,43 @@
                 </div>
             </div>
         </div>
-        <!-- End Contact -->
-        <!--========== END PAGE LAYOUT ==========-->
-
-        <!--========== FOOTER ==========-->
-        <footer class="footer">
-            <div class="content container">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <img class="footer-logo" src="img/logo-dark.png" alt="Aircv Logo">
-                    </div>
-                    <div class="col-xs-6 text-right sm-text-left">
-                        <p class="margin-b-0"><a class="fweight-700" href="http://keenthemes.com/preview/aircv/">Aircv</a> Theme Powered by: <a class="fweight-700" href="http://www.keenthemes.com/">KeenThemes.com</a></p>
-                    </div>
+        <!-- End Contact -->        
+    </body>
+    <!-- END BODY -->
+    <!--========== FOOTER ==========-->
+    <footer class="footer">
+        <div class="content container">
+            <div class="row">
+                <div class="col-xs-6">
+                    <img class="footer-logo" src="img/logoDP3.jpg" alt="David Jeiel">
                 </div>
-                <!--// end row -->
             </div>
-        </footer>
-        <!--========== END FOOTER ==========-->
-
+            <!--// end row -->
+        </div>
         <!-- Back To Top -->
         <a href="javascript:void(0);" class="js-back-to-top back-to-top">Top</a>
 
-        <!-- JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
-        <!-- CORE PLUGINS -->
-        <script src="vendor/jquery.min.js" type="text/javascript"></script>
-        <script src="vendor/jquery-migrate.min.js" type="text/javascript"></script>
-        <script src="vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+            <!-- JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
+            <!-- CORE PLUGINS -->
+            <script src="vendor/jquery.min.js" type="text/javascript"></script>
+            <script src="vendor/jquery-migrate.min.js" type="text/javascript"></script>
+            <script src="vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 
-        <!-- PAGE LEVEL PLUGINS -->
-        <script src="vendor/jquery.easing.js" type="text/javascript"></script>
-        <script src="vendor/jquery.back-to-top.js" type="text/javascript"></script>
-        <script src="vendor/jquery.smooth-scroll.js" type="text/javascript"></script>
-        <script src="vendor/jquery.wow.min.js" type="text/javascript"></script>
-        <script src="vendor/jquery.parallax.min.js" type="text/javascript"></script>
-        <script src="vendor/jquery.appear.js" type="text/javascript"></script>
-        <script src="vendor/masonry/jquery.masonry.pkgd.min.js" type="text/javascript"></script>
-        <script src="vendor/masonry/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+            <!-- PAGE LEVEL PLUGINS -->
+            <script src="vendor/jquery.easing.js" type="text/javascript"></script>
+            <script src="vendor/jquery.back-to-top.js" type="text/javascript"></script>
+            <script src="vendor/jquery.smooth-scroll.js" type="text/javascript"></script>
+            <script src="vendor/jquery.wow.min.js" type="text/javascript"></script>
+            <script src="vendor/jquery.parallax.min.js" type="text/javascript"></script>
+            <script src="vendor/jquery.appear.js" type="text/javascript"></script>
+            <script src="vendor/masonry/jquery.masonry.pkgd.min.js" type="text/javascript"></script>
+            <script src="vendor/masonry/imagesloaded.pkgd.min.js" type="text/javascript"></script>
 
-        <!-- PAGE LEVEL SCRIPTS -->
-        <script src="js/layout.min.js" type="text/javascript"></script>
-        <script src="js/components/progress-bar.min.js" type="text/javascript"></script>
-        <script src="js/components/masonry.min.js" type="text/javascript"></script>
-        <script src="js/components/wow.min.js" type="text/javascript"></script>
-
-    </body>
-    <!-- END BODY -->
+            <!-- PAGE LEVEL SCRIPTS -->
+            <script src="js/layout.min.js" type="text/javascript"></script>
+            <script src="js/components/progress-bar.min.js" type="text/javascript"></script>
+            <script src="js/components/masonry.min.js" type="text/javascript"></script>
+            <script src="js/components/wow.min.js" type="text/javascript"></script>
+    </footer>
+    <!--========== END FOOTER ==========-->    
 </html>
